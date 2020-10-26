@@ -8,6 +8,12 @@ Another example for reference: <https://github.com/JKillian/tslint-custom-rule-e
 
 Example: <https://www.npmjs.com/package/learning-tslint>
 
+```bash
+npm install -g tslint typescript
+npm install --save-dev learning-tslint
+tslint -c tslint.json code-to-compile.ts
+```
+
 ## From scratch
 
 ```bash
@@ -29,6 +35,15 @@ And finally:
 
 ```bash
 npm publish
+```
+
+And then to use it:
+
+```bash
+npm install -g tslint typescript # or: yarn global add tslint typescript
+touch tslint.json # or touch tsconfig.json
+# then see the folder /try-using-it
+tslint -c tslint.json code-to-compile.ts
 ```
 
 ## Starting by testing out this repo <!-- Replace "template"s and "# and then ..."s in this section -->
