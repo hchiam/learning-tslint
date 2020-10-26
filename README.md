@@ -6,6 +6,8 @@ Followed this tutorial: <https://blog.bitsrc.io/extending-tslint-to-add-custom-r
 
 Another example for reference: <https://github.com/JKillian/tslint-custom-rule-example/blob/master/src/noNumberPremadeRule.ts>
 
+Example: <https://www.npmjs.com/package/learning-tslint>
+
 ## From scratch
 
 ```bash
