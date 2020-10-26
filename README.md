@@ -37,7 +37,7 @@ And finally:
 npm publish
 ```
 
-And then to use it:
+And then to use it (in another folder):
 
 ```bash
 npm install -g tslint typescript # or: yarn global add tslint typescript
