@@ -46,12 +46,12 @@ touch tslint.json # or touch tsconfig.json
 tslint -c tslint.json code-to-compile.ts
 ```
 
-## Starting by testing out this repo <!-- Replace "template"s and "# and then ..."s in this section -->
+## Starting by testing out this repo
 
 Triple-click the following to select all:
 
 ```bash
-git clone https://github.com/hchiam/learning-tslint.git; cd learning-tslint; npm install; # and then ...
+git clone https://github.com/hchiam/learning-tslint.git; cd learning-tslint; npm install;
 ```
 
 ## Notes
