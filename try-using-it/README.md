@@ -1,6 +1,7 @@
 # Try using the npm package `learning-tslint`
 
 ```bash
+npm init
 npm install -g tslint typescript # or: yarn global add tslint typescript
 npm i --save-dev learning-tslint # will install it and tslint from package.json
 ```
