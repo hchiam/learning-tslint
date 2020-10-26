@@ -1,8 +1,10 @@
-# Learning template
+# Learning TSLint
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
-<!-- Add reference link(s) here -->
+<https://github.com/JKillian/tslint-custom-rule-example/blob/master/src/noNumberPremadeRule.ts>
+
+<https://blog.bitsrc.io/extending-tslint-to-add-custom-rules-b30ca96158ee?gi=31845781f87c>
 
 ## From scratch
 
