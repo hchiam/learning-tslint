@@ -60,3 +60,7 @@ git clone https://github.com/hchiam/learning-tslint.git; cd learning-tslint; npm
 - Rule file name: camelCase, end name with "Rule".
 - Exported class: just named `Rule`.
 - Exported class: `extends Lint.Rules.AbstractRule`.
+
+## Test example
+
+<https://github.com/JKillian/tslint-custom-rule-example/blob/master/test/no-number-premade/test.ts.lint>
