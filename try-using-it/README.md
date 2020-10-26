@@ -4,6 +4,7 @@
 npm init
 npm install -g tslint typescript # or: yarn global add tslint typescript
 npm i --save-dev learning-tslint # will install it and tslint from package.json
+touch tslint.json # and fill it in
 ```
 
 ```bash
