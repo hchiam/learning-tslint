@@ -64,3 +64,7 @@ git clone https://github.com/hchiam/learning-tslint.git; cd learning-tslint; npm
 ## Test example
 
 <https://github.com/JKillian/tslint-custom-rule-example/blob/master/test/no-number-premade/test.ts.lint>
+
+## You might also like
+
+https://github.com/hchiam/learning-lint-staged
